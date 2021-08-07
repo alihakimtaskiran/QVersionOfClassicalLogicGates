@@ -1,7 +1,7 @@
 # QVersionOfClassicalLogicGates
 Quantum version of classical logic gates
 <br>
-|Gate|Image|
+|Gate|Circuit|
 |---|--|
 |NOT|![Not Gate](Gates/not.png)|
 |AND|![And Gate](Gates/and.png)|
